@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index f0c36b8..13b4fae 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,3 @@
+-# megacorp | good marketing example
++# megacorp
+ 
+-MegaCorp™ is _the_ enterprise Customer Relationship Management (CRM) software. Not only is it an incredible product, but it also ships a programming language for "MegaCorp developers" that want to build custom features within the MegaCorp™ ecosystem. That language is called "Apux".
++The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
